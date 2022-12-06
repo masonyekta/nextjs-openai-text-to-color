@@ -18,7 +18,7 @@ export function Footer() {
 				<Link
 					target="_blank"
 					className="underline"
-					href="https://github.com/masonyekta/next-js-openai-text-to-color"
+					href="https://github.com/masonyekta/nextjs-openai-text-to-color"
 				>
 					GitHub
 				</Link>

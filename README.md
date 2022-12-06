@@ -2,6 +2,8 @@
 
 This is a simple fun project which uses OpenAI API to turn a text description into a color.
 
+![Preview](https://i.imgur.com/fWNeFvO.png)
+
 ## Getting Started
 
 Copy `.env.example` to `.env` and set your own OpenAI API.
