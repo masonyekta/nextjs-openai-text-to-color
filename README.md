@@ -2,7 +2,7 @@
 
 This is a simple fun project which uses OpenAI API to turn a text description into a color.
 
-![Preview](https://i.imgur.com/fWNeFvO.png)
+![Preview](https://i.imgur.com/J7CJ2Et.jpg)
 
 ## Getting Started
 
